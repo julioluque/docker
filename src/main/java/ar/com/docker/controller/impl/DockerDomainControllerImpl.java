@@ -12,7 +12,7 @@ public class DockerDomainControllerImpl implements DockerDomainController {
 
 	@GetMapping("/echo-test")
 	public String echoTest() {
-		return "Tests is OK - Java-Docker !!!!!!";
+		return "Tests is OK - Proyect a Dockerizar, deployado en AWS code ppipeline !!!!!!";
 	}
 
 }
